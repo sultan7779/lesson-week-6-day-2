@@ -30,6 +30,11 @@ Adding jQuery to your website
 ```html
 <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 ``` 
+
+![images/jquery-intro-1.png](images/jquery-intro-1.png)
+
+![images/jquery-intro-2.png](images/jquery-intro-2.png)
+
 ## jQuery Syntax vs DOM Syntax
 
 __Syntax:__ Spelling and grammar rules of a programming language.
@@ -39,6 +44,20 @@ Note:
 Like with any language, there are formal rules around how to write it. This is the syntax.
 
 <img width="1000" alt="jquery-select" src="https://user-images.githubusercontent.com/5384023/51520047-c0e66200-1e33-11e9-9d73-04d2d582e45b.png">
+
+![images/jquery-select.png](images/jquery-select.png)
+
+![images/jquery-select-1.png](images/jquery-select-1.png)
+
+![images/jquery-select-2.png](images/jquery-select-2.png)
+
+![images/jquery-select-3.png](images/jquery-select-3.png)
+
+![images/jquery-select-4.png](images/jquery-select-4.png)
+
+![images/jquery-select-5.png](images/jquery-select-5.png)
+
+![images/jquery-select-6.png](images/jquery-select-6.png)
 
 <img width="1000" alt="jquery-css-select" src="https://user-images.githubusercontent.com/5384023/51520072-d3609b80-1e33-11e9-90f0-3798bb5b4966.png">
 
@@ -70,6 +89,35 @@ Complete the exercises in [exercise/jquery-selectors/main.js](exercise/jquery-se
 Read more about [jQuery selectors](https://learn.jquery.com/using-jquery-core/selecting-elements/)
 
 ## Manipulating the DOM
+
+![images/jquery-method-1.png](images/jquery-method-1.png)
+
+![images/jquery-method-3.png](images/jquery-method-3.png)
+
+![images/jquery-method-2.png](images/jquery-method-2.png)
+
+
+![images/jquery-method-4.png](images/jquery-method-4.png)
+
+![images/jquery-method-5.png](images/jquery-method-5.png)
+
+![images/jquery-method-6.png](images/jquery-method-6.png)
+
+![images/jquery-method-7.png](images/jquery-method-7.png)
+
+![images/jquery-method-8.png](images/jquery-method-8.png)
+
+![images/jquery-method-9.png](images/jquery-method-9.png)
+
+![images/jquery-method-10.png](images/jquery-method-10.png)
+
+![images/jquery-method-11.png](images/jquery-method-11.png)
+
+![images/jquery-method-12.png](images/jquery-method-12.png)
+
+![images/jquery-method-13.png](images/jquery-method-13.png)
+
+![images/jquery-method-14.png](images/jquery-method-14.png)
 
 ### Getters
 
@@ -185,6 +233,44 @@ Open [exercise/jquery-manipulate/index.html](exercise/jquery-manipulate/index.ht
 Open [exercise/jquery-manipulate](exercise/jquery-manipulate/) folder in your text editor.
 
 Complete the exercises in [exercise/jquery-manipulate/main.js](exercise/jquery-selectors/main.js).  You will see the results in the browser.
+
+### Effects / Animations
+
+![images/jquery-effects-1.png](images/jquery-effects-1.png)
+
+![images/jquery-effects-2.png](images/jquery-effects-2.png)
+
+![images/jquery-effects-3.png](images/jquery-effects-3.png)
+
+![images/jquery-effects-4.png](images/jquery-effects-4.png)
+
+![images/jquery-effects-5.png](images/jquery-effects-5.png)
+
+### Events
+
+![images/jquery-events.png](images/jquery-events.png)
+
+![images/jquery-events-1.png](images/jquery-events-1.png)
+
+![images/jquery-events-1a.png](images/jquery-events-1a.png)
+
+![images/jquery-events-1b.png](images/jquery-events-1b.png)
+
+![images/jquery-events-2.png](images/jquery-events-2.png)
+
+![images/jquery-events-3.png](images/jquery-events-3.png)
+
+![images/jquery-events-4.png](images/jquery-events-4.png)
+
+![images/jquery-events-5.png](images/jquery-events-5.png)
+
+![images/jquery-events-5a.png](images/jquery-events-5a.png)
+
+![images/jquery-events-6.png](images/jquery-events-6.png)
+
+![images/jquery-events-7.png](images/jquery-events-7.png)
+
+![images/jquery-events-8.png](images/jquery-events-8.png)
 
 ## Additional Resources
 
