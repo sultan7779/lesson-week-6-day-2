@@ -2,12 +2,12 @@
 
 // click event for white button
 
-function switchGray() {
-    // change background to gray
-    // change font to white
-}
+$('#grayButton').click(function switchGray(){
+$('body').css('background-color','gray');
+$('h1, p').css('color', 'white');
+});
 
-function switchWhite() {
-    // change background to white
-    // change font to black
-}
+$('#whiteButton').click(function switchWhite(){
+$('body').css('background-color','white');
+$('h1, p').css('color', 'black');
+});
